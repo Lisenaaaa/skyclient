@@ -1,0 +1,36 @@
+/* discord like color and font */
+body {
+  font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
+  background-color: #36393e;
+  color: white;
+}
+
+/* link */
+a {
+  color: #58a6ff;
+}
+
+/* unvisited link */
+a:link {
+  color: #58a6ff;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: #58a6ff;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color: #58a6ff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+/* selected link */
+a:active {
+  color: #58a6ff;
+  text-decoration: none;
+}
